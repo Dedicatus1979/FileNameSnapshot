@@ -1,0 +1,8 @@
+{
+  "db_name": "SnapshotLs.db",
+  "recursion_times": 3,
+  "refuse": [
+  ],
+  "accept": [
+  ]
+}
