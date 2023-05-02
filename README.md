@@ -6,6 +6,8 @@ A program for saving disk's file name, and print disk's file. 一个用于将磁
 
 注意，本程序到现在为止只是个半成品！！！
 
+仅仅是可以跑的程度。
+
 # 简单使用
 release里有两份exe，reader是读程序，writer是写程序，双击运行就行了，不过必须保证exe所在路径中有config.json配置文件。
 
