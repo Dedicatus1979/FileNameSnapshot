@@ -44,3 +44,6 @@ for index in a:
         print(index[1])
     else:
         print('\t' * index[2] + "|-", index[1])
+
+input("按任意键退出")
+
